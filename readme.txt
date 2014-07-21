@@ -1,5 +1,3 @@
-README
-
 How to compile: g++ server.cpp -o server
 Run: ./server <Server type>
 
